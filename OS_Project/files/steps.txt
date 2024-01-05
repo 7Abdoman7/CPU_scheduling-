@@ -1,0 +1,1158 @@
+>>>>>>The program has started
+>>>>CPU at queue (1)
+>>Process(Id = 1, Current time = 99) has been added to queue (1)
+>>Process(Id = 2, Current time = 75) has been added to queue (1)
+>>Process(Id = 1, Current time = 99) has been removed from queue (1)
+>>Process (Id = 1, Current time = 99), Its time decreased by 8
+>>Process(Id = 1, Current time = 91) has been added to queue (2)
+>>Process(Id = 3, Current time = 3) has been added to queue (1)
+>>Process(Id = 2, Current time = 75) has been removed from queue (1)
+>>Process (Id = 2, Current time = 75), Its time decreased by 8
+>>Process(Id = 2, Current time = 67) has been added to queue (2)
+>>Process(Id = 4, Current time = 62) has been added to queue (1)
+>>Process(Id = 3, Current time = 3) has been removed from queue (1)
+>>Process (Id = 3, Current time = 3), Its time decreased by 8
+>>Process(Id = 3, Initial time = 3) has finished
+>>Process(Id = 5, Current time = 17) has been added to queue (1)
+>>Process(Id = 4, Current time = 62) has been removed from queue (1)
+>>Process (Id = 4, Current time = 62), Its time decreased by 8
+>>Process(Id = 4, Current time = 54) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 1, Current time = 91) has been removed from queue (2)
+>>Process (Id = 1, Current time = 91), Its time decreased by 16
+>>Process(Id = 1, Current time = 75) has been added to queue (3)
+>>Process(Id = 2, Current time = 67) has been removed from queue (2)
+>>Process (Id = 2, Current time = 67), Its time decreased by 16
+>>Process(Id = 2, Current time = 51) has been added to queue (3)
+>>Process(Id = 4, Current time = 54) has been removed from queue (2)
+>>Process (Id = 4, Current time = 54), Its time decreased by 16
+>>Process(Id = 4, Current time = 38) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 1, Current time = 75) has been removed from queue (3)
+>>Process(Id = 2, Current time = 51) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 6, Current time = 82) has been added to queue (1)
+>>Process(Id = 5, Current time = 17) has been removed from queue (1)
+>>Process (Id = 5, Current time = 17), Its time decreased by 8
+>>Process(Id = 5, Current time = 9) has been added to queue (2)
+>>Process(Id = 7, Current time = 25) has been added to queue (1)
+>>Process(Id = 6, Current time = 82) has been removed from queue (1)
+>>Process (Id = 6, Current time = 82), Its time decreased by 8
+>>Process(Id = 6, Current time = 74) has been added to queue (2)
+>>Process(Id = 8, Current time = 21) has been added to queue (1)
+>>Process(Id = 7, Current time = 25) has been removed from queue (1)
+>>Process (Id = 7, Current time = 25), Its time decreased by 8
+>>Process(Id = 7, Current time = 17) has been added to queue (2)
+>>Process(Id = 9, Current time = 25) has been added to queue (1)
+>>Process(Id = 8, Current time = 21) has been removed from queue (1)
+>>Process (Id = 8, Current time = 21), Its time decreased by 8
+>>Process(Id = 8, Current time = 13) has been added to queue (2)
+>>Process(Id = 10, Current time = 64) has been added to queue (1)
+>>Process(Id = 9, Current time = 25) has been removed from queue (1)
+>>Process (Id = 9, Current time = 25), Its time decreased by 8
+>>Process(Id = 9, Current time = 17) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 5, Current time = 9) has been removed from queue (2)
+>>Process (Id = 5, Current time = 9), Its time decreased by 16
+>>Process(Id = 5, Initial time = 17) has finished
+>>Process(Id = 6, Current time = 74) has been removed from queue (2)
+>>Process (Id = 6, Current time = 74), Its time decreased by 16
+>>Process(Id = 6, Current time = 58) has been added to queue (1)
+>>Process(Id = 7, Current time = 17) has been removed from queue (2)
+>>Process (Id = 7, Current time = 17), Its time decreased by 16
+>>Process(Id = 7, Current time = 1) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 4, Current time = 38) has been removed from queue (3)
+>>Process(Id = 7, Current time = 1) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 11, Current time = 83) has been added to queue (1)
+>>Process(Id = 10, Current time = 64) has been removed from queue (1)
+>>Process (Id = 10, Current time = 64), Its time decreased by 8
+>>Process(Id = 10, Current time = 56) has been added to queue (2)
+>>Process(Id = 12, Current time = 26) has been added to queue (1)
+>>Process(Id = 6, Current time = 58) has been removed from queue (1)
+>>Process (Id = 6, Current time = 58), Its time decreased by 8
+>>Process(Id = 6, Current time = 50) has been added to queue (2)
+>>Process(Id = 13, Current time = 98) has been added to queue (1)
+>>Process(Id = 11, Current time = 83) has been removed from queue (1)
+>>Process (Id = 11, Current time = 83), Its time decreased by 8
+>>Process(Id = 11, Current time = 75) has been added to queue (2)
+>>Process(Id = 14, Current time = 81) has been added to queue (1)
+>>Process(Id = 12, Current time = 26) has been removed from queue (1)
+>>Process (Id = 12, Current time = 26), Its time decreased by 8
+>>Process(Id = 12, Current time = 18) has been added to queue (2)
+>>Process(Id = 15, Current time = 24) has been added to queue (1)
+>>Process(Id = 13, Current time = 98) has been removed from queue (1)
+>>Process (Id = 13, Current time = 98), Its time decreased by 8
+>>Process(Id = 13, Current time = 90) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 8, Current time = 13) has been removed from queue (2)
+>>Process (Id = 8, Current time = 13), Its time decreased by 16
+>>Process(Id = 8, Initial time = 21) has finished
+>>Process(Id = 9, Current time = 17) has been removed from queue (2)
+>>Process (Id = 9, Current time = 17), Its time decreased by 16
+>>Process(Id = 9, Current time = 1) has been added to queue (1)
+>>Process(Id = 10, Current time = 56) has been removed from queue (2)
+>>Process (Id = 10, Current time = 56), Its time decreased by 16
+>>Process(Id = 10, Current time = 40) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 10, Current time = 40) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 16, Current time = 32) has been added to queue (1)
+>>Process(Id = 14, Current time = 81) has been removed from queue (1)
+>>Process (Id = 14, Current time = 81), Its time decreased by 8
+>>Process(Id = 14, Current time = 73) has been added to queue (2)
+>>Process(Id = 17, Current time = 51) has been added to queue (1)
+>>Process(Id = 15, Current time = 24) has been removed from queue (1)
+>>Process (Id = 15, Current time = 24), Its time decreased by 8
+>>Process(Id = 15, Current time = 16) has been added to queue (2)
+>>Process(Id = 18, Current time = 27) has been added to queue (1)
+>>Process(Id = 9, Current time = 1) has been removed from queue (1)
+>>Process (Id = 9, Current time = 1), Its time decreased by 8
+>>Process(Id = 9, Initial time = 25) has finished
+>>Process(Id = 19, Current time = 29) has been added to queue (1)
+>>Process(Id = 16, Current time = 32) has been removed from queue (1)
+>>Process (Id = 16, Current time = 32), Its time decreased by 8
+>>Process(Id = 16, Current time = 24) has been added to queue (2)
+>>Process(Id = 20, Current time = 22) has been added to queue (1)
+>>Process(Id = 17, Current time = 51) has been removed from queue (1)
+>>Process (Id = 17, Current time = 51), Its time decreased by 8
+>>Process(Id = 17, Current time = 43) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 6, Current time = 50) has been removed from queue (2)
+>>Process (Id = 6, Current time = 50), Its time decreased by 16
+>>Process(Id = 6, Current time = 34) has been added to queue (3)
+>>Process(Id = 11, Current time = 75) has been removed from queue (2)
+>>Process (Id = 11, Current time = 75), Its time decreased by 16
+>>Process(Id = 11, Current time = 59) has been added to queue (3)
+>>Process(Id = 12, Current time = 18) has been removed from queue (2)
+>>Process (Id = 12, Current time = 18), Its time decreased by 16
+>>Process(Id = 12, Current time = 2) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 6, Current time = 34) has been removed from queue (3)
+>>Process(Id = 11, Current time = 59) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 21, Current time = 17) has been added to queue (1)
+>>Process(Id = 18, Current time = 27) has been removed from queue (1)
+>>Process (Id = 18, Current time = 27), Its time decreased by 8
+>>Process(Id = 18, Current time = 19) has been added to queue (2)
+>>Process(Id = 22, Current time = 22) has been added to queue (1)
+>>Process(Id = 19, Current time = 29) has been removed from queue (1)
+>>Process (Id = 19, Current time = 29), Its time decreased by 8
+>>Process(Id = 19, Current time = 21) has been added to queue (2)
+>>Process(Id = 23, Current time = 43) has been added to queue (1)
+>>Process(Id = 20, Current time = 22) has been removed from queue (1)
+>>Process (Id = 20, Current time = 22), Its time decreased by 8
+>>Process(Id = 20, Current time = 14) has been added to queue (2)
+>>Process(Id = 24, Current time = 97) has been added to queue (1)
+>>Process(Id = 12, Current time = 2) has been removed from queue (1)
+>>Process (Id = 12, Current time = 2), Its time decreased by 8
+>>Process(Id = 12, Initial time = 26) has finished
+>>Process(Id = 25, Current time = 43) has been added to queue (1)
+>>Process(Id = 21, Current time = 17) has been removed from queue (1)
+>>Process (Id = 21, Current time = 17), Its time decreased by 8
+>>Process(Id = 21, Current time = 9) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 13, Current time = 90) has been removed from queue (2)
+>>Process (Id = 13, Current time = 90), Its time decreased by 16
+>>Process(Id = 13, Current time = 74) has been added to queue (3)
+>>Process(Id = 14, Current time = 73) has been removed from queue (2)
+>>Process (Id = 14, Current time = 73), Its time decreased by 16
+>>Process(Id = 14, Current time = 57) has been added to queue (1)
+>>Process(Id = 15, Current time = 16) has been removed from queue (2)
+>>Process (Id = 15, Current time = 16), Its time decreased by 16
+>>Process(Id = 15, Initial time = 24) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 13, Current time = 74) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 26, Current time = 83) has been added to queue (1)
+>>Process(Id = 22, Current time = 22) has been removed from queue (1)
+>>Process (Id = 22, Current time = 22), Its time decreased by 8
+>>Process(Id = 22, Current time = 14) has been added to queue (2)
+>>Process(Id = 27, Current time = 48) has been added to queue (1)
+>>Process(Id = 23, Current time = 43) has been removed from queue (1)
+>>Process (Id = 23, Current time = 43), Its time decreased by 8
+>>Process(Id = 23, Current time = 35) has been added to queue (2)
+>>Process(Id = 28, Current time = 55) has been added to queue (1)
+>>Process(Id = 24, Current time = 97) has been removed from queue (1)
+>>Process (Id = 24, Current time = 97), Its time decreased by 8
+>>Process(Id = 24, Current time = 89) has been added to queue (2)
+>>Process(Id = 29, Current time = 39) has been added to queue (1)
+>>Process(Id = 25, Current time = 43) has been removed from queue (1)
+>>Process (Id = 25, Current time = 43), Its time decreased by 8
+>>Process(Id = 25, Current time = 35) has been added to queue (2)
+>>Process(Id = 30, Current time = 76) has been added to queue (1)
+>>Process(Id = 14, Current time = 57) has been removed from queue (1)
+>>Process (Id = 14, Current time = 57), Its time decreased by 8
+>>Process(Id = 14, Current time = 49) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 16, Current time = 24) has been removed from queue (2)
+>>Process (Id = 16, Current time = 24), Its time decreased by 16
+>>Process(Id = 16, Current time = 8) has been added to queue (1)
+>>Process(Id = 17, Current time = 43) has been removed from queue (2)
+>>Process (Id = 17, Current time = 43), Its time decreased by 16
+>>Process(Id = 17, Current time = 27) has been added to queue (3)
+>>Process(Id = 18, Current time = 19) has been removed from queue (2)
+>>Process (Id = 18, Current time = 19), Its time decreased by 16
+>>Process(Id = 18, Current time = 3) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 17, Current time = 27) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 31, Current time = 30) has been added to queue (1)
+>>Process(Id = 26, Current time = 83) has been removed from queue (1)
+>>Process (Id = 26, Current time = 83), Its time decreased by 8
+>>Process(Id = 26, Current time = 75) has been added to queue (2)
+>>Process(Id = 32, Current time = 85) has been added to queue (1)
+>>Process(Id = 27, Current time = 48) has been removed from queue (1)
+>>Process (Id = 27, Current time = 48), Its time decreased by 8
+>>Process(Id = 27, Current time = 40) has been added to queue (2)
+>>Process(Id = 33, Current time = 44) has been added to queue (1)
+>>Process(Id = 28, Current time = 55) has been removed from queue (1)
+>>Process (Id = 28, Current time = 55), Its time decreased by 8
+>>Process(Id = 28, Current time = 47) has been added to queue (2)
+>>Process(Id = 34, Current time = 91) has been added to queue (1)
+>>Process(Id = 29, Current time = 39) has been removed from queue (1)
+>>Process (Id = 29, Current time = 39), Its time decreased by 8
+>>Process(Id = 29, Current time = 31) has been added to queue (2)
+>>Process(Id = 35, Current time = 4) has been added to queue (1)
+>>Process(Id = 30, Current time = 76) has been removed from queue (1)
+>>Process (Id = 30, Current time = 76), Its time decreased by 8
+>>Process(Id = 30, Current time = 68) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 19, Current time = 21) has been removed from queue (2)
+>>Process (Id = 19, Current time = 21), Its time decreased by 16
+>>Process(Id = 19, Current time = 5) has been added to queue (1)
+>>Process(Id = 20, Current time = 14) has been removed from queue (2)
+>>Process (Id = 20, Current time = 14), Its time decreased by 16
+>>Process(Id = 20, Initial time = 22) has finished
+>>Process(Id = 21, Current time = 9) has been removed from queue (2)
+>>Process (Id = 21, Current time = 9), Its time decreased by 16
+>>Process(Id = 21, Initial time = 17) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 36, Current time = 3) has been added to queue (1)
+>>Process(Id = 16, Current time = 8) has been removed from queue (1)
+>>Process (Id = 16, Current time = 8), Its time decreased by 8
+>>Process(Id = 16, Initial time = 32) has finished
+>>Process(Id = 37, Current time = 67) has been added to queue (1)
+>>Process(Id = 18, Current time = 3) has been removed from queue (1)
+>>Process (Id = 18, Current time = 3), Its time decreased by 8
+>>Process(Id = 18, Initial time = 27) has finished
+>>Process(Id = 38, Current time = 97) has been added to queue (1)
+>>Process(Id = 31, Current time = 30) has been removed from queue (1)
+>>Process (Id = 31, Current time = 30), Its time decreased by 8
+>>Process(Id = 31, Current time = 22) has been added to queue (2)
+>>Process(Id = 39, Current time = 69) has been added to queue (1)
+>>Process(Id = 32, Current time = 85) has been removed from queue (1)
+>>Process (Id = 32, Current time = 85), Its time decreased by 8
+>>Process(Id = 32, Current time = 77) has been added to queue (2)
+>>Process(Id = 40, Current time = 19) has been added to queue (1)
+>>Process(Id = 33, Current time = 44) has been removed from queue (1)
+>>Process (Id = 33, Current time = 44), Its time decreased by 8
+>>Process(Id = 33, Current time = 36) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 22, Current time = 14) has been removed from queue (2)
+>>Process (Id = 22, Current time = 14), Its time decreased by 16
+>>Process(Id = 22, Initial time = 22) has finished
+>>Process(Id = 23, Current time = 35) has been removed from queue (2)
+>>Process (Id = 23, Current time = 35), Its time decreased by 16
+>>Process(Id = 23, Current time = 19) has been added to queue (3)
+>>Process(Id = 24, Current time = 89) has been removed from queue (2)
+>>Process (Id = 24, Current time = 89), Its time decreased by 16
+>>Process(Id = 24, Current time = 73) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 23, Current time = 19) has been removed from queue (3)
+>>Process(Id = 24, Current time = 73) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 41, Current time = 46) has been added to queue (1)
+>>Process(Id = 34, Current time = 91) has been removed from queue (1)
+>>Process (Id = 34, Current time = 91), Its time decreased by 8
+>>Process(Id = 34, Current time = 83) has been added to queue (2)
+>>Process(Id = 42, Current time = 53) has been added to queue (1)
+>>Process(Id = 35, Current time = 4) has been removed from queue (1)
+>>Process (Id = 35, Current time = 4), Its time decreased by 8
+>>Process(Id = 35, Initial time = 4) has finished
+>>Process(Id = 43, Current time = 82) has been added to queue (1)
+>>Process(Id = 19, Current time = 5) has been removed from queue (1)
+>>Process (Id = 19, Current time = 5), Its time decreased by 8
+>>Process(Id = 19, Initial time = 29) has finished
+>>Process(Id = 44, Current time = 11) has been added to queue (1)
+>>Process(Id = 36, Current time = 3) has been removed from queue (1)
+>>Process (Id = 36, Current time = 3), Its time decreased by 8
+>>Process(Id = 36, Initial time = 3) has finished
+>>Process(Id = 45, Current time = 67) has been added to queue (1)
+>>Process(Id = 37, Current time = 67) has been removed from queue (1)
+>>Process (Id = 37, Current time = 67), Its time decreased by 8
+>>Process(Id = 37, Current time = 59) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 25, Current time = 35) has been removed from queue (2)
+>>Process (Id = 25, Current time = 35), Its time decreased by 16
+>>Process(Id = 25, Current time = 19) has been added to queue (3)
+>>Process(Id = 14, Current time = 49) has been removed from queue (2)
+>>Process (Id = 14, Current time = 49), Its time decreased by 16
+>>Process(Id = 14, Current time = 33) has been added to queue (1)
+>>Process(Id = 26, Current time = 75) has been removed from queue (2)
+>>Process (Id = 26, Current time = 75), Its time decreased by 16
+>>Process(Id = 26, Current time = 59) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 25, Current time = 19) has been removed from queue (3)
+>>Process(Id = 26, Current time = 59) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 46, Current time = 61) has been added to queue (1)
+>>Process(Id = 38, Current time = 97) has been removed from queue (1)
+>>Process (Id = 38, Current time = 97), Its time decreased by 8
+>>Process(Id = 38, Current time = 89) has been added to queue (2)
+>>Process(Id = 47, Current time = 7) has been added to queue (1)
+>>Process(Id = 39, Current time = 69) has been removed from queue (1)
+>>Process (Id = 39, Current time = 69), Its time decreased by 8
+>>Process(Id = 39, Current time = 61) has been added to queue (2)
+>>Process(Id = 48, Current time = 19) has been added to queue (1)
+>>Process(Id = 40, Current time = 19) has been removed from queue (1)
+>>Process (Id = 40, Current time = 19), Its time decreased by 8
+>>Process(Id = 40, Current time = 11) has been added to queue (2)
+>>Process(Id = 49, Current time = 68) has been added to queue (1)
+>>Process(Id = 41, Current time = 46) has been removed from queue (1)
+>>Process (Id = 41, Current time = 46), Its time decreased by 8
+>>Process(Id = 41, Current time = 38) has been added to queue (2)
+>>Process(Id = 50, Current time = 60) has been added to queue (1)
+>>Process(Id = 42, Current time = 53) has been removed from queue (1)
+>>Process (Id = 42, Current time = 53), Its time decreased by 8
+>>Process(Id = 42, Current time = 45) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 27, Current time = 40) has been removed from queue (2)
+>>Process (Id = 27, Current time = 40), Its time decreased by 16
+>>Process(Id = 27, Current time = 24) has been added to queue (1)
+>>Process(Id = 28, Current time = 47) has been removed from queue (2)
+>>Process (Id = 28, Current time = 47), Its time decreased by 16
+>>Process(Id = 28, Current time = 31) has been added to queue (3)
+>>Process(Id = 29, Current time = 31) has been removed from queue (2)
+>>Process (Id = 29, Current time = 31), Its time decreased by 16
+>>Process(Id = 29, Current time = 15) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 28, Current time = 31) has been removed from queue (3)
+>>Process(Id = 29, Current time = 15) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 43, Current time = 82) has been removed from queue (1)
+>>Process (Id = 43, Current time = 82), Its time decreased by 8
+>>Process(Id = 43, Current time = 74) has been added to queue (2)
+>>Process(Id = 51, Current time = 17) has been added to queue (1)
+>>Process(Id = 44, Current time = 11) has been removed from queue (1)
+>>Process (Id = 44, Current time = 11), Its time decreased by 8
+>>Process(Id = 44, Current time = 3) has been added to queue (2)
+>>Process(Id = 52, Current time = 98) has been added to queue (1)
+>>Process(Id = 45, Current time = 67) has been removed from queue (1)
+>>Process (Id = 45, Current time = 67), Its time decreased by 8
+>>Process(Id = 45, Current time = 59) has been added to queue (2)
+>>Process(Id = 53, Current time = 47) has been added to queue (1)
+>>Process(Id = 14, Current time = 33) has been removed from queue (1)
+>>Process (Id = 14, Current time = 33), Its time decreased by 8
+>>Process(Id = 14, Current time = 25) has been added to queue (2)
+>>Process(Id = 54, Current time = 72) has been added to queue (1)
+>>Process(Id = 46, Current time = 61) has been removed from queue (1)
+>>Process (Id = 46, Current time = 61), Its time decreased by 8
+>>Process(Id = 46, Current time = 53) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 30, Current time = 68) has been removed from queue (2)
+>>Process (Id = 30, Current time = 68), Its time decreased by 16
+>>Process(Id = 30, Current time = 52) has been added to queue (3)
+>>Process(Id = 31, Current time = 22) has been removed from queue (2)
+>>Process (Id = 31, Current time = 22), Its time decreased by 16
+>>Process(Id = 31, Current time = 6) has been added to queue (3)
+>>Process(Id = 32, Current time = 77) has been removed from queue (2)
+>>Process (Id = 32, Current time = 77), Its time decreased by 16
+>>Process(Id = 32, Current time = 61) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 30, Current time = 52) has been removed from queue (3)
+>>Process(Id = 31, Current time = 6) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 47, Current time = 7) has been removed from queue (1)
+>>Process (Id = 47, Current time = 7), Its time decreased by 8
+>>Process(Id = 47, Initial time = 7) has finished
+>>Process(Id = 55, Current time = 47) has been added to queue (1)
+>>Process(Id = 48, Current time = 19) has been removed from queue (1)
+>>Process (Id = 48, Current time = 19), Its time decreased by 8
+>>Process(Id = 48, Current time = 11) has been added to queue (2)
+>>Process(Id = 56, Current time = 52) has been added to queue (1)
+>>Process(Id = 49, Current time = 68) has been removed from queue (1)
+>>Process (Id = 49, Current time = 68), Its time decreased by 8
+>>Process(Id = 49, Current time = 60) has been added to queue (2)
+>>Process(Id = 57, Current time = 57) has been added to queue (1)
+>>Process(Id = 50, Current time = 60) has been removed from queue (1)
+>>Process (Id = 50, Current time = 60), Its time decreased by 8
+>>Process(Id = 50, Current time = 52) has been added to queue (2)
+>>Process(Id = 58, Current time = 10) has been added to queue (1)
+>>Process(Id = 27, Current time = 24) has been removed from queue (1)
+>>Process (Id = 27, Current time = 24), Its time decreased by 8
+>>Process(Id = 27, Current time = 16) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 33, Current time = 36) has been removed from queue (2)
+>>Process (Id = 33, Current time = 36), Its time decreased by 16
+>>Process(Id = 33, Current time = 20) has been added to queue (3)
+>>Process(Id = 34, Current time = 83) has been removed from queue (2)
+>>Process (Id = 34, Current time = 83), Its time decreased by 16
+>>Process(Id = 34, Current time = 67) has been added to queue (3)
+>>Process(Id = 37, Current time = 59) has been removed from queue (2)
+>>Process (Id = 37, Current time = 59), Its time decreased by 16
+>>Process(Id = 37, Current time = 43) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 33, Current time = 20) has been removed from queue (3)
+>>Process(Id = 34, Current time = 67) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 51, Current time = 17) has been removed from queue (1)
+>>Process (Id = 51, Current time = 17), Its time decreased by 8
+>>Process(Id = 51, Current time = 9) has been added to queue (2)
+>>Process(Id = 59, Current time = 22) has been added to queue (1)
+>>Process(Id = 52, Current time = 98) has been removed from queue (1)
+>>Process (Id = 52, Current time = 98), Its time decreased by 8
+>>Process(Id = 52, Current time = 90) has been added to queue (2)
+>>Process(Id = 60, Current time = 8) has been added to queue (1)
+>>Process(Id = 53, Current time = 47) has been removed from queue (1)
+>>Process (Id = 53, Current time = 47), Its time decreased by 8
+>>Process(Id = 53, Current time = 39) has been added to queue (2)
+>>Process(Id = 61, Current time = 2) has been added to queue (1)
+>>Process(Id = 54, Current time = 72) has been removed from queue (1)
+>>Process (Id = 54, Current time = 72), Its time decreased by 8
+>>Process(Id = 54, Current time = 64) has been added to queue (2)
+>>Process(Id = 62, Current time = 88) has been added to queue (1)
+>>Process(Id = 32, Current time = 61) has been removed from queue (1)
+>>Process (Id = 32, Current time = 61), Its time decreased by 8
+>>Process(Id = 32, Current time = 53) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 38, Current time = 89) has been removed from queue (2)
+>>Process (Id = 38, Current time = 89), Its time decreased by 16
+>>Process(Id = 38, Current time = 73) has been added to queue (1)
+>>Process(Id = 39, Current time = 61) has been removed from queue (2)
+>>Process (Id = 39, Current time = 61), Its time decreased by 16
+>>Process(Id = 39, Current time = 45) has been added to queue (3)
+>>Process(Id = 40, Current time = 11) has been removed from queue (2)
+>>Process (Id = 40, Current time = 11), Its time decreased by 16
+>>Process(Id = 40, Initial time = 19) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 39, Current time = 45) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 55, Current time = 47) has been removed from queue (1)
+>>Process (Id = 55, Current time = 47), Its time decreased by 8
+>>Process(Id = 55, Current time = 39) has been added to queue (2)
+>>Process(Id = 63, Current time = 22) has been added to queue (1)
+>>Process(Id = 56, Current time = 52) has been removed from queue (1)
+>>Process (Id = 56, Current time = 52), Its time decreased by 8
+>>Process(Id = 56, Current time = 44) has been added to queue (2)
+>>Process(Id = 64, Current time = 38) has been added to queue (1)
+>>Process(Id = 57, Current time = 57) has been removed from queue (1)
+>>Process (Id = 57, Current time = 57), Its time decreased by 8
+>>Process(Id = 57, Current time = 49) has been added to queue (2)
+>>Process(Id = 65, Current time = 51) has been added to queue (1)
+>>Process(Id = 58, Current time = 10) has been removed from queue (1)
+>>Process (Id = 58, Current time = 10), Its time decreased by 8
+>>Process(Id = 58, Current time = 2) has been added to queue (2)
+>>Process(Id = 66, Current time = 18) has been added to queue (1)
+>>Process(Id = 37, Current time = 43) has been removed from queue (1)
+>>Process (Id = 37, Current time = 43), Its time decreased by 8
+>>Process(Id = 37, Current time = 35) has been added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 41, Current time = 38) has been removed from queue (2)
+>>Process (Id = 41, Current time = 38), Its time decreased by 16
+>>Process(Id = 41, Current time = 22) has been added to queue (3)
+>>Process(Id = 42, Current time = 45) has been removed from queue (2)
+>>Process (Id = 42, Current time = 45), Its time decreased by 16
+>>Process(Id = 42, Current time = 29) has been added to queue (3)
+>>Process(Id = 43, Current time = 74) has been removed from queue (2)
+>>Process (Id = 43, Current time = 74), Its time decreased by 16
+>>Process(Id = 43, Current time = 58) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 41, Current time = 22) has been removed from queue (3)
+>>Process(Id = 42, Current time = 29) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 59, Current time = 22) has been removed from queue (1)
+>>Process (Id = 59, Current time = 22), Its time decreased by 8
+>>Process(Id = 59, Current time = 14) has been added to queue (2)
+>>Process(Id = 67, Current time = 17) has been added to queue (1)
+>>Process(Id = 60, Current time = 8) has been removed from queue (1)
+>>Process (Id = 60, Current time = 8), Its time decreased by 8
+>>Process(Id = 60, Initial time = 8) has finished
+>>Process(Id = 68, Current time = 44) has been added to queue (1)
+>>Process(Id = 61, Current time = 2) has been removed from queue (1)
+>>Process (Id = 61, Current time = 2), Its time decreased by 8
+>>Process(Id = 61, Initial time = 2) has finished
+>>Process(Id = 69, Current time = 43) has been added to queue (1)
+>>Process(Id = 62, Current time = 88) has been removed from queue (1)
+>>Process (Id = 62, Current time = 88), Its time decreased by 8
+>>Process(Id = 62, Current time = 80) has been added to queue (2)
+>>Process(Id = 70, Current time = 12) has been added to queue (1)
+>>Process(Id = 38, Current time = 73) has been removed from queue (1)
+>>Process (Id = 38, Current time = 73), Its time decreased by 8
+>>Process(Id = 38, Current time = 65) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 44, Current time = 3) has been removed from queue (2)
+>>Process (Id = 44, Current time = 3), Its time decreased by 16
+>>Process(Id = 44, Initial time = 11) has finished
+>>Process(Id = 45, Current time = 59) has been removed from queue (2)
+>>Process (Id = 45, Current time = 59), Its time decreased by 16
+>>Process(Id = 45, Current time = 43) has been added to queue (3)
+>>Process(Id = 14, Current time = 25) has been removed from queue (2)
+>>Process (Id = 14, Current time = 25), Its time decreased by 16
+>>Process(Id = 14, Current time = 9) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 43, Current time = 58) has been removed from queue (3)
+>>Process(Id = 45, Current time = 43) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 71, Current time = 14) has been added to queue (1)
+>>Process(Id = 63, Current time = 22) has been removed from queue (1)
+>>Process (Id = 63, Current time = 22), Its time decreased by 8
+>>Process(Id = 63, Current time = 14) has been added to queue (2)
+>>Process(Id = 72, Current time = 61) has been added to queue (1)
+>>Process(Id = 64, Current time = 38) has been removed from queue (1)
+>>Process (Id = 64, Current time = 38), Its time decreased by 8
+>>Process(Id = 64, Current time = 30) has been added to queue (2)
+>>Process(Id = 73, Current time = 47) has been added to queue (1)
+>>Process(Id = 65, Current time = 51) has been removed from queue (1)
+>>Process (Id = 65, Current time = 51), Its time decreased by 8
+>>Process(Id = 65, Current time = 43) has been added to queue (2)
+>>Process(Id = 74, Current time = 63) has been added to queue (1)
+>>Process(Id = 66, Current time = 18) has been removed from queue (1)
+>>Process (Id = 66, Current time = 18), Its time decreased by 8
+>>Process(Id = 66, Current time = 10) has been added to queue (1)
+>>Process(Id = 37, Current time = 35) has been removed from queue (1)
+>>Process (Id = 37, Current time = 35), Its time decreased by 8
+>>Process(Id = 37, Current time = 27) has added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 46, Current time = 53) has been removed from queue (2)
+>>Process (Id = 46, Current time = 53), Its time decreased by 16
+>>Process(Id = 46, Current time = 37) has been added to queue (3)
+>>Process(Id = 48, Current time = 11) has been removed from queue (2)
+>>Process (Id = 48, Current time = 11), Its time decreased by 16
+>>Process(Id = 48, Initial time = 19) has finished
+>>Process(Id = 49, Current time = 60) has been removed from queue (2)
+>>Process (Id = 49, Current time = 60), Its time decreased by 16
+>>Process(Id = 49, Current time = 44) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 14, Current time = 9) has been removed from queue (3)
+>>Process(Id = 46, Current time = 37) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 67, Current time = 17) has been removed from queue (1)
+>>Process (Id = 67, Current time = 17), Its time decreased by 8
+>>Process(Id = 67, Current time = 9) has been added to queue (2)
+>>Process(Id = 75, Current time = 2) has been added to queue (1)
+>>Process(Id = 68, Current time = 44) has been removed from queue (1)
+>>Process (Id = 68, Current time = 44), Its time decreased by 8
+>>Process(Id = 68, Current time = 36) has been added to queue (2)
+>>Process(Id = 76, Current time = 42) has been added to queue (1)
+>>Process(Id = 69, Current time = 43) has been removed from queue (1)
+>>Process (Id = 69, Current time = 43), Its time decreased by 8
+>>Process(Id = 69, Current time = 35) has been added to queue (2)
+>>Process(Id = 77, Current time = 50) has been added to queue (1)
+>>Process(Id = 70, Current time = 12) has been removed from queue (1)
+>>Process (Id = 70, Current time = 12), Its time decreased by 8
+>>Process(Id = 70, Current time = 4) has been added to queue (1)
+>>Process(Id = 71, Current time = 14) has been removed from queue (1)
+>>Process (Id = 71, Current time = 14), Its time decreased by 8
+>>Process(Id = 71, Current time = 6) has added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 50, Current time = 52) has been removed from queue (2)
+>>Process (Id = 50, Current time = 52), Its time decreased by 16
+>>Process(Id = 50, Current time = 36) has been added to queue (3)
+>>Process(Id = 27, Current time = 16) has been removed from queue (2)
+>>Process (Id = 27, Current time = 16), Its time decreased by 16
+>>Process(Id = 27, Initial time = 48) has finished
+>>Process(Id = 51, Current time = 9) has been removed from queue (2)
+>>Process (Id = 51, Current time = 9), Its time decreased by 16
+>>Process(Id = 51, Initial time = 17) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 49, Current time = 44) has been removed from queue (3)
+>>Process(Id = 50, Current time = 36) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 72, Current time = 61) has been removed from queue (1)
+>>Process (Id = 72, Current time = 61), Its time decreased by 8
+>>Process(Id = 72, Current time = 53) has been added to queue (2)
+>>Process(Id = 78, Current time = 22) has been added to queue (1)
+>>Process(Id = 73, Current time = 47) has been removed from queue (1)
+>>Process (Id = 73, Current time = 47), Its time decreased by 8
+>>Process(Id = 73, Current time = 39) has been added to queue (2)
+>>Process(Id = 79, Current time = 26) has been added to queue (1)
+>>Process(Id = 74, Current time = 63) has been removed from queue (1)
+>>Process (Id = 74, Current time = 63), Its time decreased by 8
+>>Process(Id = 74, Current time = 55) has been added to queue (2)
+>>Process(Id = 80, Current time = 28) has been added to queue (1)
+>>Process(Id = 66, Current time = 10) has been removed from queue (1)
+>>Process (Id = 66, Current time = 10), Its time decreased by 8
+>>Process(Id = 66, Current time = 2) has been added to queue (1)
+>>Process(Id = 37, Current time = 27) has been removed from queue (1)
+>>Process (Id = 37, Current time = 27), Its time decreased by 8
+>>Process(Id = 37, Current time = 19) has added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 52, Current time = 90) has been removed from queue (2)
+>>Process (Id = 52, Current time = 90), Its time decreased by 16
+>>Process(Id = 52, Current time = 74) has been added to queue (3)
+>>Process(Id = 53, Current time = 39) has been removed from queue (2)
+>>Process (Id = 53, Current time = 39), Its time decreased by 16
+>>Process(Id = 53, Current time = 23) has been added to queue (3)
+>>Process(Id = 54, Current time = 64) has been removed from queue (2)
+>>Process (Id = 54, Current time = 64), Its time decreased by 16
+>>Process(Id = 54, Current time = 48) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 52, Current time = 74) has been removed from queue (3)
+>>Process(Id = 53, Current time = 23) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 75, Current time = 2) has been removed from queue (1)
+>>Process (Id = 75, Current time = 2), Its time decreased by 8
+>>Process(Id = 75, Initial time = 2) has finished
+>>Process(Id = 81, Current time = 87) has been added to queue (1)
+>>Process(Id = 76, Current time = 42) has been removed from queue (1)
+>>Process (Id = 76, Current time = 42), Its time decreased by 8
+>>Process(Id = 76, Current time = 34) has been added to queue (2)
+>>Process(Id = 82, Current time = 19) has been added to queue (1)
+>>Process(Id = 77, Current time = 50) has been removed from queue (1)
+>>Process (Id = 77, Current time = 50), Its time decreased by 8
+>>Process(Id = 77, Current time = 42) has been added to queue (2)
+>>Process(Id = 83, Current time = 18) has been added to queue (1)
+>>Process(Id = 70, Current time = 4) has been removed from queue (1)
+>>Process (Id = 70, Current time = 4), Its time decreased by 8
+>>Process(Id = 70, Initial time = 12) has finished
+>>Process(Id = 84, Current time = 66) has been added to queue (1)
+>>Process(Id = 71, Current time = 6) has been removed from queue (1)
+>>Process (Id = 71, Current time = 6), Its time decreased by 8
+>>Process(Id = 71, Initial time = 14) has finished
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 32, Current time = 53) has been removed from queue (2)
+>>Process (Id = 32, Current time = 53), Its time decreased by 16
+>>Process(Id = 32, Current time = 37) has been added to queue (3)
+>>Process(Id = 55, Current time = 39) has been removed from queue (2)
+>>Process (Id = 55, Current time = 39), Its time decreased by 16
+>>Process(Id = 55, Current time = 23) has been added to queue (3)
+>>Process(Id = 56, Current time = 44) has been removed from queue (2)
+>>Process (Id = 56, Current time = 44), Its time decreased by 16
+>>Process(Id = 56, Current time = 28) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 54, Current time = 48) has been removed from queue (3)
+>>Process(Id = 32, Current time = 37) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 85, Current time = 40) has been added to queue (1)
+>>Process(Id = 78, Current time = 22) has been removed from queue (1)
+>>Process (Id = 78, Current time = 22), Its time decreased by 8
+>>Process(Id = 78, Current time = 14) has been added to queue (2)
+>>Process(Id = 86, Current time = 82) has been added to queue (1)
+>>Process(Id = 79, Current time = 26) has been removed from queue (1)
+>>Process (Id = 79, Current time = 26), Its time decreased by 8
+>>Process(Id = 79, Current time = 18) has been added to queue (2)
+>>Process(Id = 87, Current time = 55) has been added to queue (1)
+>>Process(Id = 80, Current time = 28) has been removed from queue (1)
+>>Process (Id = 80, Current time = 28), Its time decreased by 8
+>>Process(Id = 80, Current time = 20) has been added to queue (2)
+>>Process(Id = 88, Current time = 3) has been added to queue (1)
+>>Process(Id = 66, Current time = 2) has been removed from queue (1)
+>>Process (Id = 66, Current time = 2), Its time decreased by 8
+>>Process(Id = 66, Initial time = 18) has finished
+>>Process(Id = 89, Current time = 6) has been added to queue (1)
+>>Process(Id = 37, Current time = 19) has been removed from queue (1)
+>>Process (Id = 37, Current time = 19), Its time decreased by 8
+>>Process(Id = 37, Current time = 11) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 57, Current time = 49) has been removed from queue (2)
+>>Process (Id = 57, Current time = 49), Its time decreased by 16
+>>Process(Id = 57, Current time = 33) has been added to queue (3)
+>>Process(Id = 58, Current time = 2) has been removed from queue (2)
+>>Process (Id = 58, Current time = 2), Its time decreased by 16
+>>Process(Id = 58, Initial time = 10) has finished
+>>Process(Id = 59, Current time = 14) has been removed from queue (2)
+>>Process (Id = 59, Current time = 14), Its time decreased by 16
+>>Process(Id = 59, Initial time = 22) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 55, Current time = 23) has been removed from queue (3)
+>>Process(Id = 56, Current time = 28) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 90, Current time = 53) has been added to queue (1)
+>>Process(Id = 81, Current time = 87) has been removed from queue (1)
+>>Process (Id = 81, Current time = 87), Its time decreased by 8
+>>Process(Id = 81, Current time = 79) has been added to queue (2)
+>>Process(Id = 91, Current time = 43) has been added to queue (1)
+>>Process(Id = 82, Current time = 19) has been removed from queue (1)
+>>Process (Id = 82, Current time = 19), Its time decreased by 8
+>>Process(Id = 82, Current time = 11) has been added to queue (2)
+>>Process(Id = 92, Current time = 38) has been added to queue (1)
+>>Process(Id = 83, Current time = 18) has been removed from queue (1)
+>>Process (Id = 83, Current time = 18), Its time decreased by 8
+>>Process(Id = 83, Current time = 10) has been added to queue (2)
+>>Process(Id = 93, Current time = 26) has been added to queue (1)
+>>Process(Id = 84, Current time = 66) has been removed from queue (1)
+>>Process (Id = 84, Current time = 66), Its time decreased by 8
+>>Process(Id = 84, Current time = 58) has been added to queue (1)
+>>Process(Id = 85, Current time = 40) has been removed from queue (1)
+>>Process (Id = 85, Current time = 40), Its time decreased by 8
+>>Process(Id = 85, Current time = 32) has added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 62, Current time = 80) has been removed from queue (2)
+>>Process (Id = 62, Current time = 80), Its time decreased by 16
+>>Process(Id = 62, Current time = 64) has been added to queue (3)
+>>Process(Id = 38, Current time = 65) has been removed from queue (2)
+>>Process (Id = 38, Current time = 65), Its time decreased by 16
+>>Process(Id = 38, Current time = 49) has been added to queue (3)
+>>Process(Id = 63, Current time = 14) has been removed from queue (2)
+>>Process (Id = 63, Current time = 14), Its time decreased by 16
+>>Process(Id = 63, Initial time = 22) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 57, Current time = 33) has been removed from queue (3)
+>>Process(Id = 62, Current time = 64) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 86, Current time = 82) has been removed from queue (1)
+>>Process (Id = 86, Current time = 82), Its time decreased by 8
+>>Process(Id = 86, Current time = 74) has been added to queue (2)
+>>Process(Id = 94, Current time = 93) has been added to queue (1)
+>>Process(Id = 87, Current time = 55) has been removed from queue (1)
+>>Process (Id = 87, Current time = 55), Its time decreased by 8
+>>Process(Id = 87, Current time = 47) has been added to queue (2)
+>>Process(Id = 95, Current time = 21) has been added to queue (1)
+>>Process(Id = 88, Current time = 3) has been removed from queue (1)
+>>Process (Id = 88, Current time = 3), Its time decreased by 8
+>>Process(Id = 88, Initial time = 3) has finished
+>>Process(Id = 96, Current time = 30) has been added to queue (1)
+>>Process(Id = 89, Current time = 6) has been removed from queue (1)
+>>Process (Id = 89, Current time = 6), Its time decreased by 8
+>>Process(Id = 89, Initial time = 6) has finished
+>>Process(Id = 97, Current time = 28) has been added to queue (1)
+>>Process(Id = 90, Current time = 53) has been removed from queue (1)
+>>Process (Id = 90, Current time = 53), Its time decreased by 8
+>>Process(Id = 90, Current time = 45) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 64, Current time = 30) has been removed from queue (2)
+>>Process (Id = 64, Current time = 30), Its time decreased by 16
+>>Process(Id = 64, Current time = 14) has been added to queue (1)
+>>Process(Id = 65, Current time = 43) has been removed from queue (2)
+>>Process (Id = 65, Current time = 43), Its time decreased by 16
+>>Process(Id = 65, Current time = 27) has been added to queue (3)
+>>Process(Id = 67, Current time = 9) has been removed from queue (2)
+>>Process (Id = 67, Current time = 9), Its time decreased by 16
+>>Process(Id = 67, Initial time = 17) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 38, Current time = 49) has been removed from queue (3)
+>>Process(Id = 65, Current time = 27) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 91, Current time = 43) has been removed from queue (1)
+>>Process (Id = 91, Current time = 43), Its time decreased by 8
+>>Process(Id = 91, Current time = 35) has been added to queue (2)
+>>Process(Id = 98, Current time = 96) has been added to queue (1)
+>>Process(Id = 92, Current time = 38) has been removed from queue (1)
+>>Process (Id = 92, Current time = 38), Its time decreased by 8
+>>Process(Id = 92, Current time = 30) has been added to queue (2)
+>>Process(Id = 99, Current time = 15) has been added to queue (1)
+>>Process(Id = 93, Current time = 26) has been removed from queue (1)
+>>Process (Id = 93, Current time = 26), Its time decreased by 8
+>>Process(Id = 93, Current time = 18) has been added to queue (2)
+>>Process(Id = 100, Current time = 60) has been added to queue (1)
+>>Process(Id = 84, Current time = 58) has been removed from queue (1)
+>>Process (Id = 84, Current time = 58), Its time decreased by 8
+>>Process(Id = 84, Current time = 50) has been added to queue (1)
+>>Process(Id = 85, Current time = 32) has been removed from queue (1)
+>>Process (Id = 85, Current time = 32), Its time decreased by 8
+>>Process(Id = 85, Current time = 24) has added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 68, Current time = 36) has been removed from queue (2)
+>>Process (Id = 68, Current time = 36), Its time decreased by 16
+>>Process(Id = 68, Current time = 20) has been added to queue (3)
+>>Process(Id = 69, Current time = 35) has been removed from queue (2)
+>>Process (Id = 69, Current time = 35), Its time decreased by 16
+>>Process(Id = 69, Current time = 19) has been added to queue (3)
+>>Process(Id = 72, Current time = 53) has been removed from queue (2)
+>>Process (Id = 72, Current time = 53), Its time decreased by 16
+>>Process(Id = 72, Current time = 37) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 68, Current time = 20) has been removed from queue (3)
+>>Process(Id = 69, Current time = 19) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 94, Current time = 93) has been removed from queue (1)
+>>Process (Id = 94, Current time = 93), Its time decreased by 8
+>>Process(Id = 94, Current time = 85) has been added to queue (2)
+>>Process(Id = 95, Current time = 21) has been removed from queue (1)
+>>Process (Id = 95, Current time = 21), Its time decreased by 8
+>>Process(Id = 95, Current time = 13) has been added to queue (2)
+>>Process(Id = 96, Current time = 30) has been removed from queue (1)
+>>Process (Id = 96, Current time = 30), Its time decreased by 8
+>>Process(Id = 96, Current time = 22) has been added to queue (2)
+>>Process(Id = 97, Current time = 28) has been removed from queue (1)
+>>Process (Id = 97, Current time = 28), Its time decreased by 8
+>>Process(Id = 97, Current time = 20) has been added to queue (1)
+>>Process(Id = 64, Current time = 14) has been removed from queue (1)
+>>Process (Id = 64, Current time = 14), Its time decreased by 8
+>>Process(Id = 64, Current time = 6) has been added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 73, Current time = 39) has been removed from queue (2)
+>>Process (Id = 73, Current time = 39), Its time decreased by 16
+>>Process(Id = 73, Current time = 23) has been added to queue (3)
+>>Process(Id = 74, Current time = 55) has been removed from queue (2)
+>>Process (Id = 74, Current time = 55), Its time decreased by 16
+>>Process(Id = 74, Current time = 39) has been added to queue (1)
+>>Process(Id = 76, Current time = 34) has been removed from queue (2)
+>>Process (Id = 76, Current time = 34), Its time decreased by 16
+>>Process(Id = 76, Current time = 18) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 72, Current time = 37) has been removed from queue (3)
+>>Process(Id = 73, Current time = 23) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 98, Current time = 96) has been removed from queue (1)
+>>Process (Id = 98, Current time = 96), Its time decreased by 8
+>>Process(Id = 98, Current time = 88) has been added to queue (2)
+>>Process(Id = 99, Current time = 15) has been removed from queue (1)
+>>Process (Id = 99, Current time = 15), Its time decreased by 8
+>>Process(Id = 99, Current time = 7) has been added to queue (2)
+>>Process(Id = 100, Current time = 60) has been removed from queue (1)
+>>Process (Id = 100, Current time = 60), Its time decreased by 8
+>>Process(Id = 100, Current time = 52) has been added to queue (2)
+>>Process(Id = 84, Current time = 50) has been removed from queue (1)
+>>Process (Id = 84, Current time = 50), Its time decreased by 8
+>>Process(Id = 84, Current time = 42) has been added to queue (1)
+>>Process(Id = 85, Current time = 24) has been removed from queue (1)
+>>Process (Id = 85, Current time = 24), Its time decreased by 8
+>>Process(Id = 85, Current time = 16) has been added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 77, Current time = 42) has been removed from queue (2)
+>>Process (Id = 77, Current time = 42), Its time decreased by 16
+>>Process(Id = 77, Current time = 26) has been added to queue (1)
+>>Process(Id = 78, Current time = 14) has been removed from queue (2)
+>>Process (Id = 78, Current time = 14), Its time decreased by 16
+>>Process(Id = 78, Initial time = 22) has finished
+>>Process(Id = 79, Current time = 18) has been removed from queue (2)
+>>Process (Id = 79, Current time = 18), Its time decreased by 16
+>>Process(Id = 79, Current time = 2) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 76, Current time = 18) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 97, Current time = 20) has been removed from queue (1)
+>>Process (Id = 97, Current time = 20), Its time decreased by 8
+>>Process(Id = 97, Current time = 12) has been added to queue (2)
+>>Process(Id = 64, Current time = 6) has been removed from queue (1)
+>>Process (Id = 64, Current time = 6), Its time decreased by 8
+>>Process(Id = 64, Initial time = 38) has finished
+>>Process(Id = 74, Current time = 39) has been removed from queue (1)
+>>Process (Id = 74, Current time = 39), Its time decreased by 8
+>>Process(Id = 74, Current time = 31) has been added to queue (2)
+>>Process(Id = 84, Current time = 42) has been removed from queue (1)
+>>Process (Id = 84, Current time = 42), Its time decreased by 8
+>>Process(Id = 84, Current time = 34) has been added to queue (2)
+>>Process(Id = 85, Current time = 16) has been removed from queue (1)
+>>Process (Id = 85, Current time = 16), Its time decreased by 8
+>>Process(Id = 85, Current time = 8) has been added to queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 80, Current time = 20) has been removed from queue (2)
+>>Process (Id = 80, Current time = 20), Its time decreased by 16
+>>Process(Id = 80, Current time = 4) has been added to queue (1)
+>>Process(Id = 37, Current time = 11) has been removed from queue (2)
+>>Process (Id = 37, Current time = 11), Its time decreased by 16
+>>Process(Id = 37, Initial time = 67) has finished
+>>Process(Id = 81, Current time = 79) has been removed from queue (2)
+>>Process (Id = 81, Current time = 79), Its time decreased by 16
+>>Process(Id = 81, Current time = 63) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 77, Current time = 26) has been removed from queue (1)
+>>Process (Id = 77, Current time = 26), Its time decreased by 8
+>>Process(Id = 77, Current time = 18) has been added to queue (2)
+>>Process(Id = 79, Current time = 2) has been removed from queue (1)
+>>Process (Id = 79, Current time = 2), Its time decreased by 8
+>>Process(Id = 79, Initial time = 26) has finished
+>>Process(Id = 85, Current time = 8) has been removed from queue (1)
+>>Process (Id = 85, Current time = 8), Its time decreased by 8
+>>Process(Id = 85, Initial time = 40) has finished
+>>Process(Id = 80, Current time = 4) has been removed from queue (1)
+>>Process (Id = 80, Current time = 4), Its time decreased by 8
+>>Process(Id = 80, Initial time = 28) has finished
+>>Process(Id = 81, Current time = 63) has been removed from queue (1)
+>>Process (Id = 81, Current time = 63), Its time decreased by 8
+>>Process(Id = 81, Current time = 55) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 82, Current time = 11) has been removed from queue (2)
+>>Process (Id = 82, Current time = 11), Its time decreased by 16
+>>Process(Id = 82, Initial time = 19) has finished
+>>Process(Id = 83, Current time = 10) has been removed from queue (2)
+>>Process (Id = 83, Current time = 10), Its time decreased by 16
+>>Process(Id = 83, Initial time = 18) has finished
+>>Process(Id = 86, Current time = 74) has been removed from queue (2)
+>>Process (Id = 86, Current time = 74), Its time decreased by 16
+>>Process(Id = 86, Current time = 58) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 86, Current time = 58) has been removed from queue (1)
+>>Process (Id = 86, Current time = 58), Its time decreased by 8
+>>Process(Id = 86, Current time = 50) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 87, Current time = 47) has been removed from queue (2)
+>>Process (Id = 87, Current time = 47), Its time decreased by 16
+>>Process(Id = 87, Current time = 31) has been added to queue (1)
+>>Process(Id = 90, Current time = 45) has been removed from queue (2)
+>>Process (Id = 90, Current time = 45), Its time decreased by 16
+>>Process(Id = 90, Current time = 29) has been added to queue (1)
+>>Process(Id = 91, Current time = 35) has been removed from queue (2)
+>>Process (Id = 91, Current time = 35), Its time decreased by 16
+>>Process(Id = 91, Current time = 19) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 91, Current time = 19) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 87, Current time = 31) has been removed from queue (1)
+>>Process (Id = 87, Current time = 31), Its time decreased by 8
+>>Process(Id = 87, Current time = 23) has been added to queue (2)
+>>Process(Id = 90, Current time = 29) has been removed from queue (1)
+>>Process (Id = 90, Current time = 29), Its time decreased by 8
+>>Process(Id = 90, Current time = 21) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 92, Current time = 30) has been removed from queue (2)
+>>Process (Id = 92, Current time = 30), Its time decreased by 16
+>>Process(Id = 92, Current time = 14) has been added to queue (1)
+>>Process(Id = 93, Current time = 18) has been removed from queue (2)
+>>Process (Id = 93, Current time = 18), Its time decreased by 16
+>>Process(Id = 93, Current time = 2) has been added to queue (3)
+>>Process(Id = 94, Current time = 85) has been removed from queue (2)
+>>Process (Id = 94, Current time = 85), Its time decreased by 16
+>>Process(Id = 94, Current time = 69) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 93, Current time = 2) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 92, Current time = 14) has been removed from queue (1)
+>>Process (Id = 92, Current time = 14), Its time decreased by 8
+>>Process(Id = 92, Current time = 6) has been added to queue (2)
+>>Process(Id = 94, Current time = 69) has been removed from queue (1)
+>>Process (Id = 94, Current time = 69), Its time decreased by 8
+>>Process(Id = 94, Current time = 61) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 95, Current time = 13) has been removed from queue (2)
+>>Process (Id = 95, Current time = 13), Its time decreased by 16
+>>Process(Id = 95, Initial time = 21) has finished
+>>Process(Id = 96, Current time = 22) has been removed from queue (2)
+>>Process (Id = 96, Current time = 22), Its time decreased by 16
+>>Process(Id = 96, Current time = 6) has been added to queue (3)
+>>Process(Id = 98, Current time = 88) has been removed from queue (2)
+>>Process (Id = 98, Current time = 88), Its time decreased by 16
+>>Process(Id = 98, Current time = 72) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 96, Current time = 6) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 98, Current time = 72) has been removed from queue (1)
+>>Process (Id = 98, Current time = 72), Its time decreased by 8
+>>Process(Id = 98, Current time = 64) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 99, Current time = 7) has been removed from queue (2)
+>>Process (Id = 99, Current time = 7), Its time decreased by 16
+>>Process(Id = 99, Initial time = 15) has finished
+>>Process(Id = 100, Current time = 52) has been removed from queue (2)
+>>Process (Id = 100, Current time = 52), Its time decreased by 16
+>>Process(Id = 100, Current time = 36) has been added to queue (1)
+>>Process(Id = 97, Current time = 12) has been removed from queue (2)
+>>Process (Id = 97, Current time = 12), Its time decreased by 16
+>>Process(Id = 97, Initial time = 28) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 100, Current time = 36) has been removed from queue (1)
+>>Process (Id = 100, Current time = 36), Its time decreased by 8
+>>Process(Id = 100, Current time = 28) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 74, Current time = 31) has been removed from queue (2)
+>>Process (Id = 74, Current time = 31), Its time decreased by 16
+>>Process(Id = 74, Current time = 15) has been added to queue (3)
+>>Process(Id = 84, Current time = 34) has been removed from queue (2)
+>>Process (Id = 84, Current time = 34), Its time decreased by 16
+>>Process(Id = 84, Current time = 18) has been added to queue (3)
+>>Process(Id = 77, Current time = 18) has been removed from queue (2)
+>>Process (Id = 77, Current time = 18), Its time decreased by 16
+>>Process(Id = 77, Current time = 2) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 74, Current time = 15) has been removed from queue (3)
+>>Process(Id = 84, Current time = 18) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 81, Current time = 55) has been removed from queue (2)
+>>Process (Id = 81, Current time = 55), Its time decreased by 16
+>>Process(Id = 81, Current time = 39) has been added to queue (1)
+>>Process(Id = 86, Current time = 50) has been removed from queue (2)
+>>Process (Id = 86, Current time = 50), Its time decreased by 16
+>>Process(Id = 86, Current time = 34) has been added to queue (1)
+>>Process(Id = 87, Current time = 23) has been removed from queue (2)
+>>Process (Id = 87, Current time = 23), Its time decreased by 16
+>>Process(Id = 87, Current time = 7) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 77, Current time = 2) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 81, Current time = 39) has been removed from queue (1)
+>>Process (Id = 81, Current time = 39), Its time decreased by 8
+>>Process(Id = 81, Current time = 31) has been added to queue (2)
+>>Process(Id = 86, Current time = 34) has been removed from queue (1)
+>>Process (Id = 86, Current time = 34), Its time decreased by 8
+>>Process(Id = 86, Current time = 26) has been added to queue (2)
+>>Process(Id = 87, Current time = 7) has been removed from queue (1)
+>>Process (Id = 87, Current time = 7), Its time decreased by 8
+>>Process(Id = 87, Initial time = 55) has finished
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 90, Current time = 21) has been removed from queue (2)
+>>Process (Id = 90, Current time = 21), Its time decreased by 16
+>>Process(Id = 90, Current time = 5) has been added to queue (1)
+>>Process(Id = 92, Current time = 6) has been removed from queue (2)
+>>Process (Id = 92, Current time = 6), Its time decreased by 16
+>>Process(Id = 92, Initial time = 38) has finished
+>>Process(Id = 94, Current time = 61) has been removed from queue (2)
+>>Process (Id = 94, Current time = 61), Its time decreased by 16
+>>Process(Id = 94, Current time = 45) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 90, Current time = 5) has been removed from queue (1)
+>>Process (Id = 90, Current time = 5), Its time decreased by 8
+>>Process(Id = 90, Initial time = 53) has finished
+>>Process(Id = 94, Current time = 45) has been removed from queue (1)
+>>Process (Id = 94, Current time = 45), Its time decreased by 8
+>>Process(Id = 94, Current time = 37) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 98, Current time = 64) has been removed from queue (2)
+>>Process (Id = 98, Current time = 64), Its time decreased by 16
+>>Process(Id = 98, Current time = 48) has been added to queue (1)
+>>Process(Id = 100, Current time = 28) has been removed from queue (2)
+>>Process (Id = 100, Current time = 28), Its time decreased by 16
+>>Process(Id = 100, Current time = 12) has been added to queue (3)
+>>Process(Id = 81, Current time = 31) has been removed from queue (2)
+>>Process (Id = 81, Current time = 31), Its time decreased by 16
+>>Process(Id = 81, Current time = 15) has been added to queue (3)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>Process(Id = 100, Current time = 12) has been removed from queue (3)
+>>Process(Id = 81, Current time = 15) has been removed from queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 98, Current time = 48) has been removed from queue (1)
+>>Process (Id = 98, Current time = 48), Its time decreased by 8
+>>Process(Id = 98, Current time = 40) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 86, Current time = 26) has been removed from queue (2)
+>>Process (Id = 86, Current time = 26), Its time decreased by 16
+>>Process(Id = 86, Current time = 10) has been added to queue (1)
+>>Process(Id = 94, Current time = 37) has been removed from queue (2)
+>>Process (Id = 94, Current time = 37), Its time decreased by 16
+>>Process(Id = 94, Current time = 21) has been added to queue (1)
+>>Process(Id = 98, Current time = 40) has been removed from queue (2)
+>>Process (Id = 98, Current time = 40), Its time decreased by 16
+>>Process(Id = 98, Current time = 24) has been added to queue (1)
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>CPU at queue (1)
+>>Process(Id = 86, Current time = 10) has been removed from queue (1)
+>>Process (Id = 86, Current time = 10), Its time decreased by 8
+>>Process(Id = 86, Current time = 2) has been added to queue (2)
+>>Process(Id = 94, Current time = 21) has been removed from queue (1)
+>>Process (Id = 94, Current time = 21), Its time decreased by 8
+>>Process(Id = 94, Current time = 13) has been added to queue (2)
+>>Process(Id = 98, Current time = 24) has been removed from queue (1)
+>>Process (Id = 98, Current time = 24), Its time decreased by 8
+>>Process(Id = 98, Current time = 16) has been added to queue (2)
+>>>>CPU left queue (1)
+>>>>CPU at queue (2)
+>>Process(Id = 86, Current time = 2) has been removed from queue (2)
+>>Process (Id = 86, Current time = 2), Its time decreased by 16
+>>Process(Id = 86, Initial time = 82) has finished
+>>Process(Id = 94, Current time = 13) has been removed from queue (2)
+>>Process (Id = 94, Current time = 13), Its time decreased by 16
+>>Process(Id = 94, Initial time = 93) has finished
+>>Process(Id = 98, Current time = 16) has been removed from queue (2)
+>>Process (Id = 98, Current time = 16), Its time decreased by 16
+>>Process(Id = 98, Initial time = 96) has finished
+>>>>CPU left queue (2)
+>>>>CPU at queue (3)
+>>>>CPU left queue (3)
+>>>>>>The program has finished
